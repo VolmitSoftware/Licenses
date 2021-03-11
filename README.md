@@ -1,2 +1,2 @@
 # Licenses
-Volmit Software's license repository.
+Volmit Software's official license repository.
